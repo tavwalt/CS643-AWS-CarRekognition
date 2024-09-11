@@ -98,8 +98,8 @@ Run the commands to install Java on your local machine, run the following comman
 																		***Extract Files and Run the application Codes***
 																		*************************************************
 
---Extract files from "TavarisWalton-CS643Assign1.zip"
-TavarisWalton-CS643Assign1/output.txt
+--Extract files from "Tavaris-CS643Assign1.zip"
+Tavaris-CS643Assign1/output.txt
 
 --Java code, Jar file and xml for EC2-A located:
 EC2-A-CarRecog/CarRecogMaven.java
